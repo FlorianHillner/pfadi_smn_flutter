@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437916370942",
+    "firebase_url": "https://pfaditechnik-smn.firebaseio.com",
+    "project_id": "pfaditechnik-smn",
+    "storage_bucket": "pfaditechnik-smn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437916370942:android:bf45aec823f171381362af",
+        "android_client_info": {
+          "package_name": "com.pfaditechnik.smn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437916370942-5criscrppn3g7eqr31ng1arnn38dcip9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJVupFG4Hqo5M_TC9OJ7iPSFQi5D2uIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437916370942-5criscrppn3g7eqr31ng1arnn38dcip9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
