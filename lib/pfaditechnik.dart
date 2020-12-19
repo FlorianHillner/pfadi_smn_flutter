@@ -3,8 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
+import 'package:flutter_pdfview/flutter_pdfview.dart';
 
 class PfaditechnikPage extends StatelessWidget {
+
+  String ersteHilfePdfPath = "resources/erste_hilfe.pdf";
+
   @override
     Widget build(BuildContext context) {
       return Stack(
